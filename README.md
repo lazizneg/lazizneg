@@ -13,53 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <title>My GitHub Profile</title>
-    <style>
-      body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-      }
-      h1 {
-        font-size: 28px;
-        font-weight: bold;
-        margin: 0 0 10px;
-      }
-      p {
-        font-size: 18px;
-        margin: 0 0 10px;
-      }
-      ul {
-        list-style: none;
-        padding: 0;
-        margin: 0 0 10px;
-      }
-      li:before {
-        content: "\2022";
-        color: #fca311;
-        font-weight: bold;
-        display: inline-block;
-        width: 1em;
-        margin-left: -1em;
-      }
-      .emoji {
-        font-size: 20px;
-        margin-right: 5px;
-      }
-      .stats {
-        margin-top: 20px;
-        display: flex;
-        justify-content: center;
-      }
-      .contact {
-        margin-top: 20px;
-      }
-    </style>
-  </head>
   <body>
     <header>
       <h1>Welcome to My GitHub Profile!</h1>
@@ -95,9 +48,7 @@ Here are some ideas to get you started:
 	</section>
 	<section>
       <h2>My GitHub Stats:</h2>
-      <ul>
         ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[lazizneg]&show_icons=true)
-      </ul>
 	</section>
 	<section>
       <h2>Contact Me:</h2>
