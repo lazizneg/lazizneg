@@ -48,7 +48,9 @@ Here are some ideas to get you started:
 	</section>
 	<section>
       <h2>My GitHub Stats:</h2>
-        
+      <ul>
+        <li>Adding to README.md</li>
+      </ul>
 	</section>
 	<section>
       <h2>Contact Me:</h2>
