@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 	</section>
 	<section>
       <h2>My GitHub Stats:</h2>
-        ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=[lazizneg]&show_icons=true)
+        
 	</section>
 	<section>
       <h2>Contact Me:</h2>
